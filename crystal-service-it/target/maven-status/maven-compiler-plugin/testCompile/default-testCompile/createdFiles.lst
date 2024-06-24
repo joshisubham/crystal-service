@@ -1,0 +1,4 @@
+com/dashboardmasters/crystal/service/main/IntegrationTestApplication.class
+com/dashboardmasters/crystal/service/main/IntegrationTestApplication$1.class
+com/dashboardmasters/crystal/service/main/RunCucumberTest.class
+com/dashboardmasters/crystal/service/main/bdd/stepdefs/StepDefinitions.class
